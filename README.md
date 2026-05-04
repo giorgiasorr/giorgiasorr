@@ -26,19 +26,6 @@ Currently working on a clinical NLP research project, while exploring additional
   POS tagging for English, Italian, and French using rule-based, probabilistic, and neural approaches
 
 
-## 💼 Experience
-
-Data, Content & Operations Working student @ Visable GmbH (Apr 2024 – Apr 2026)
-- NLP-adjacent data workflows, CRM analytics, multilingual data processing (23 languages)
-- Data analysis, dashboards, taxonomy/classification support  
-- Python-based automation and data quality improvement
-
-
-## 🎓 Education
-
-MSc Computational Linguistics – University of Stuttgart  
-
-
 ## 🛠️ Focus Areas
 
 NLP • Machine Learning & Deep Learning • Data Science • Multilingual Text Analysis • Information Retrieval & Language Modeling • Real-world Text Data Analysis

@@ -21,8 +21,8 @@ Currently working on a clinical NLP research project, while exploring additional
   *Title:* Analyzing the Moses Illusion: A Data-Driven Study of Semantic Errors   
   Statistical analysis of semantic errors (Moses Illusion) using R, logistic regression, and experimental linguistic data
 
-- **Applied Social Data Analysis**
-  *Title:* Applied Data Analysis in Social Science: Causal Inference, Predictive Modeling & Empirical Research
+- **Applied Social Data Analysis**  
+  *Title:* Applied Data Analysis in Social Science: Causal Inference, Predictive Modeling & Empirical Research  
   Structured repository of 8 applied social science projects covering causal inference, predictive modeling, and empirical analysis of institutional, behavioral, and digital communication data across labor          markets, politics, education, surveys, and information systems.
 
 - **POS Tagging (Multilingual NLP)**  

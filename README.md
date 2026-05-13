@@ -2,9 +2,9 @@
 
 I'm currently an MSc Computational Linguistics student at the University of Stuttgart.
 
-I enjoy exploring new research ideas and building projects in NLP, from language understanding systems to data-driven analysis of real-world text data from diverse domains. ✨
+I enjoy exploring research ideas and building NLP and machine learning systems, from language understanding models to data-driven analysis of real-world text across diverse domains. ✨
 
-Currently working on a clinical NLP research project, while exploring additional directions in applied NLP and machine learning.
+Currently working on a clinical NLP research project, while exploring possible directions for future projects.
 
 
 ## 🔬 Selected Projects

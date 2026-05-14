@@ -30,9 +30,9 @@ Currently working on a clinical NLP research project, while exploring possible d
   POS tagging for English, Italian, and French using rule-based, probabilistic, and neural approaches
 
 
-## 🛠️ Focus Areas
+## 🛠️ Focus Areas & Interests
 
-NLP • Machine Learning & Deep Learning • Data Science • Multilingual Text Analysis • Information Retrieval & Language Modeling • Real-world Text Data Analysis
+NLP • Machine Learning & Deep Learning • Data Science • Multilingual Text Analysis • Information Retrieval & Language Modeling • Real-world Text Data Analysis • Computational Social Science • Generative AI
 
 
 ## 📫 Connect with me
